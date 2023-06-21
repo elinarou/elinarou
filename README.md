@@ -1,4 +1,5 @@
 # Hi, I'm Elina!
+This portfolio contains projects that I have done either in my free time or as part of my studies at Haaga-Helia University of Applied Sciences. 
 
 ## Software Development Projects:
 - ### Mobile programming 
