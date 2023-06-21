@@ -5,7 +5,7 @@
   - [Sleep Diary app made with Expo](https://github.com/elinarou/SleepDiary)
 
 ## Connect with me:
-[linkedin]: https://www.linkedin.com/in/elina-rouvinen-77688a236/
+[<img align="left" alt="Elina Rouvinen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--
 Here are some ideas to get you started:
