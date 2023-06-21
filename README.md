@@ -3,6 +3,10 @@
 ## Software Development Projects:
 - ### Mobile programming 
   - [Sleep Diary app made with Expo](https://github.com/elinarou/SleepDiary)
+ 
+## 3D Modeling Projects:
+- [3D designs with Blender](https://github.com/elinarou/3D_designs_with_Blender)
+- [3D printing models](https://github.com/elinarou/3D_printing_models)
 
 ## Connect with me:
 [<img align="left" alt="Elina Rouvinen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elina-rouvinen-77688a236/)
