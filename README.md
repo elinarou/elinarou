@@ -1,8 +1,13 @@
-### Hi there 👋
+# Hi, I'm Elina!
+
+## Software Development Projects:
+- ### Mobile programming 
+  - [Sleep Diary app made with Expo](https://github.com/elinarou/SleepDiary)
+
+## Connect with me:
+[linkedin]: https://www.linkedin.com/in/elina-rouvinen-77688a236/
 
 <!--
-**elinarou/elinarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
