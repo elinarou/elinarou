@@ -4,6 +4,8 @@ This portfolio contains projects that I have done either in my free time or as p
 ## Software Development Projects:
 - ### Mobile programming 
   - [Sleep Diary app made with Expo](https://github.com/elinarou/SleepDiary)
+- ### Databases
+  - [Database schema design](https://github.com/elinarou/Database_schema_designs)
  
 ## 3D Modeling Projects:
 - [3D designs with Blender](https://github.com/elinarou/3D_designs_with_Blender)
